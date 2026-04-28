@@ -11336,6 +11336,54 @@
             ]
         },
         {
+            "pakku_id": "KvYfBFiuMlfgCUc0",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "pause-server-when-empty"
+            },
+            "name": {
+                "modrinth": "Pause Server When Empty"
+            },
+            "id": {
+                "modrinth": "ghDvRD8t"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "pause-server-when-empty-1.4.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ghDvRD8t/versions/b8pRG7dB/pause-server-when-empty-1.4.1.jar",
+                    "id": "b8pRG7dB",
+                    "parent_id": "ghDvRD8t",
+                    "hashes": {
+                        "sha512": "6a07ccb4fc012076dbd7f3e7a2e68337ba72f2ccea01ef7d46ac7f1cb1557b4290a7f8170b0c2e47a22b0de34b5cd7da4c0b053e9235363a291d126550781d84",
+                        "sha1": "fa2dd3a300da144b7d8cffcded107417d7e6a6ec"
+                    },
+                    "required_dependencies": [],
+                    "size": 41419,
+                    "date_published": "2025-08-24T20:01:21.863749Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ztKjQrU9gBd29NOl",
             "pakku_links": [
                 "YwtDb2siWrmGkJne"
