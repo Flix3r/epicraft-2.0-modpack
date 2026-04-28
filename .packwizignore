@@ -9,3 +9,4 @@ check_mods.py
 build
 .gitignore
 .gitattributes
+servers.dat
