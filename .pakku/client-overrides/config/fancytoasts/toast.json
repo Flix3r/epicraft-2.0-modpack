@@ -1,0 +1,10 @@
+{
+  "textureId": "fancytoasts:textures/toast/vanilla.png",
+  "animationId": "fancytoasts:animations/toast/standard",
+  "soundIds": {
+    "TASK": "new:sounds.short_key",
+    "GOAL": "new:sounds.medium_found",
+    "CHALLENGE": "new:sounds.long_drums"
+  },
+  "version": 1
+}
