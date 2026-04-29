@@ -6,3 +6,6 @@ net.minecraft.client.gui.screens.TitleScreen {
 net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 }
 
+immersive_melodies.client.gui.ImmersiveMelodiesScreen {
+}
+
