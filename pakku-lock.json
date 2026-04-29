@@ -2710,7 +2710,7 @@
         {
             "pakku_id": "dLVdIi3jeLmNofYi",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "SERVER",
             "slug": {
                 "curseforge": "chunky-pregenerator-forge",
                 "modrinth": "chunky"
@@ -5359,7 +5359,7 @@
         {
             "pakku_id": "Y23JPtlDXkaqqvF8",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "SERVER",
             "slug": {
                 "curseforge": "distant-horizons",
                 "modrinth": "distanthorizons"
@@ -13122,7 +13122,7 @@
         {
             "pakku_id": "dU6YXqgJ6miVzOAm",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "SERVER",
             "slug": {
                 "curseforge": "necronomicon",
                 "modrinth": "necronomicon"
