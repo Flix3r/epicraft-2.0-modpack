@@ -10384,6 +10384,69 @@
             ]
         },
         {
+            "pakku_id": "c2hBsYqsnTQ7IOvs",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ldlib",
+                "modrinth": "ldlib"
+            },
+            "name": {
+                "curseforge": "LDLib",
+                "modrinth": "LDLib"
+            },
+            "id": {
+                "curseforge": "626676",
+                "modrinth": "B1CBVXHX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ldlib2-neoforge-1.21.1-2.2.6-all.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7915/945/ldlib2-neoforge-1.21.1-2.2.6-all.jar",
+                    "id": "7915945",
+                    "parent_id": "626676",
+                    "hashes": {
+                        "sha1": "64bbce7f013f45ab50abd281bcfb44ac3c987cad",
+                        "md5": "81d70c9ed9292e2178a93f7e189392ff"
+                    },
+                    "required_dependencies": [],
+                    "size": 6099268,
+                    "date_published": "2026-04-12T14:42:09.653Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ldlib2-neoforge-1.21.1-2.2.6-all.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/B1CBVXHX/versions/KX3KmrCS/ldlib2-neoforge-1.21.1-2.2.6-all.jar",
+                    "id": "KX3KmrCS",
+                    "parent_id": "B1CBVXHX",
+                    "hashes": {
+                        "sha512": "49b36ba6f79945bcf242cc71c4f96b5ca69b40b2c5dab401a19a1e79227c8200fa7a95441cb68a2b4c6b4b3b9de9ea958dff80e294bf100e690ea6ab65209300",
+                        "sha1": "64bbce7f013f45ab50abd281bcfb44ac3c987cad"
+                    },
+                    "required_dependencies": [],
+                    "size": 6099268,
+                    "date_published": "2026-04-12T14:42:14.271638Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "H7ot3Ln1r7VdoYYo",
             "pakku_links": [
                 "R5Y3IBlx5DZFmgA9",
