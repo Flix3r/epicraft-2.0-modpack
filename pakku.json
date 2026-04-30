@@ -1,6 +1,6 @@
 {
     "name": "EPICRAFT REBORN",
-    "version": "0.22.0",
+    "version": "1.0.0",
     "overrides": [
         "mods",
         "epicraft_version.txt"
