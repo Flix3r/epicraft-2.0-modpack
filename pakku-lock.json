@@ -14851,6 +14851,67 @@
             ]
         },
         {
+            "pakku_id": "4ZHh0z76NlSyemaM",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "resource-pack-overrides",
+                "modrinth": "resource-pack-overrides"
+            },
+            "name": {
+                "curseforge": "Resource Pack Overrides",
+                "modrinth": "Resource Pack Overrides"
+            },
+            "id": {
+                "curseforge": "832644",
+                "modrinth": "YsFycamt"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5733/968/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+                    "id": "5733968",
+                    "parent_id": "832644",
+                    "hashes": {
+                        "sha1": "42dddb70cc645a864596439ea95bd56e7a5561ed",
+                        "md5": "9757d99dce58ebb447cc75a1940d4d5a"
+                    },
+                    "required_dependencies": [],
+                    "size": 83035,
+                    "date_published": "2024-09-18T10:17:11.957Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YsFycamt/versions/xf3H2eJV/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+                    "id": "xf3H2eJV",
+                    "parent_id": "YsFycamt",
+                    "hashes": {
+                        "sha512": "9a15db96ffc86bc93624392c22c2aaea4ad4a7267c20ff528ff2dd61d8d84b9db611fc24673fba5b5d0bac318b4ce1e9d1725085ce2fad68f4231afa6bbb43c4",
+                        "sha1": "42dddb70cc645a864596439ea95bd56e7a5561ed"
+                    },
+                    "required_dependencies": [],
+                    "size": 83035,
+                    "date_published": "2024-09-18T10:17:15.551434Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "dhIn7E9ND3jeev1Y",
             "type": "MOD",
             "side": "BOTH",
