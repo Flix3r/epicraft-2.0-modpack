@@ -5027,6 +5027,74 @@
             ]
         },
         {
+            "pakku_id": "IX5Z0cHyp36W15PA",
+            "pakku_links": [
+                "D8MMU1HQRGQ7v0co"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "default-options",
+                "modrinth": "default-options"
+            },
+            "name": {
+                "curseforge": "Default Options",
+                "modrinth": "Default Options"
+            },
+            "id": {
+                "curseforge": "232131",
+                "modrinth": "WEg59z5b"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "defaultoptions-neoforge-1.21.1-21.1.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7966/181/defaultoptions-neoforge-1.21.1-21.1.6.jar",
+                    "id": "7966181",
+                    "parent_id": "232131",
+                    "hashes": {
+                        "sha1": "92c8695dff4b5143919c4e80e4940c6afe873750",
+                        "md5": "147d76b0a1953805898ed20a7f00de6b"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 95747,
+                    "date_published": "2026-04-22T10:28:50.553Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "defaultoptions-neoforge-1.21.1-21.1.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/RHtZ1B17/defaultoptions-neoforge-1.21.1-21.1.6.jar",
+                    "id": "RHtZ1B17",
+                    "parent_id": "WEg59z5b",
+                    "hashes": {
+                        "sha512": "62b3cc1d201c44d1924933ebca643af4f24cfc54b5e36307f036b84f842b1494bbb53dd649dd0a1bc43d4b3ffa3c1d0feb7e5b1736fe7f2358709e32d6bfc009",
+                        "sha1": "21e75a33cb6a11a889de14b386f12e6e4ea8ffa6"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 95747,
+                    "date_published": "2026-04-22T10:29:05.493794Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "nPGDbrf8qHAtTZzb",
             "type": "MOD",
             "side": "BOTH",
