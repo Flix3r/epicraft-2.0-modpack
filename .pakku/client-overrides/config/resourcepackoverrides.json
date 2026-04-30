@@ -1,0 +1,25 @@
+{
+  "schema_version": 2,
+  "default_packs": [
+    "vanilla",
+    "mod_resources",
+    "moonlight:merged_pack",
+    "mod/iceandfire:resourcepacks/iaf_legacy",
+    "file/More_Advancement_Sounds.zip",
+    "file/Epic-Night-Panorama.zip"
+  ],
+  "pack_overrides": {
+    "1": [
+      "file/More_Advancement_Sounds.zip",
+      "file/Night_Panorama.zip",
+      "server",
+      "supplementaries:darker_ropes"
+    ],
+    "$$1": {
+      "force_compatible": true
+    },
+    "file/More_Advancement_Sounds.zip": {
+      "required": true
+    }
+  }
+}
