@@ -1,12 +1,6 @@
 build
 overrides
 
-# Exclude exported CurseForge zip files
-*.zip
-
-# Exclude exported Modrinth modpacks
-*.mrpack
-
 .env
 pakku.jar
 __pycache__
