@@ -8016,7 +8016,7 @@
                 "rAr5gwOjVwjYy6bi"
             ],
             "type": "MOD",
-            "side": "BOTH",
+            "side": "SERVER",
             "slug": {
                 "curseforge": "geophilic-backport-vanilla-backport-compact",
                 "modrinth": "geophilic-backport"
