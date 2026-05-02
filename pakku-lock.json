@@ -14974,6 +14974,82 @@
             ]
         },
         {
+            "pakku_id": "PJDhPfncqxHuZlF0",
+            "pakku_links": [
+                "J7Zz7haUVKLWg7WO"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "replanting-crops",
+                "modrinth": "replanting-crops"
+            },
+            "name": {
+                "curseforge": "Replanting Crops",
+                "modrinth": "Replanting Crops"
+            },
+            "id": {
+                "curseforge": "367051",
+                "modrinth": "EXzIPtJo"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "replantingcrops-1.21.1-5.5.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6185/268/replantingcrops-1.21.1-5.5.jar",
+                    "id": "6185268",
+                    "parent_id": "367051",
+                    "hashes": {
+                        "sha1": "4d632c38c53bde4c4901062be0976e321b650912",
+                        "md5": "deb7a0f9566b8ee6f75a6c8939c5a6e2"
+                    },
+                    "required_dependencies": [
+                        "342584"
+                    ],
+                    "size": 43257,
+                    "date_published": "2025-02-12T13:59:09.327Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "replantingcrops-1.21.1-5.5.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/EXzIPtJo/versions/dJ9RP7Em/replantingcrops-1.21.1-5.5.jar",
+                    "id": "dJ9RP7Em",
+                    "parent_id": "EXzIPtJo",
+                    "hashes": {
+                        "sha512": "6fb07e8dca7eb51982c7abd0a0f6d60af81d267064b7a16197a0f484bee801837126dd080932ffb7cd421b9968d54fb71c36481ec513e8b127005820f653ed5b",
+                        "sha1": "4d632c38c53bde4c4901062be0976e321b650912"
+                    },
+                    "required_dependencies": [
+                        "e0M1UDsY"
+                    ],
+                    "size": 43257,
+                    "date_published": "2025-02-12T13:59:21.143691Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "4ZHh0z76NlSyemaM",
             "type": "MOD",
             "side": "CLIENT",
