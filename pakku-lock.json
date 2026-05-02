@@ -14445,6 +14445,69 @@
             ]
         },
         {
+            "pakku_id": "S8xzhJYtBNc249qd",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "polymorph",
+                "modrinth": "polymorph"
+            },
+            "name": {
+                "curseforge": "Polymorph (Fabric/Forge/Quilt)",
+                "modrinth": "Polymorph"
+            },
+            "id": {
+                "curseforge": "388800",
+                "modrinth": "tagwiZkJ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "polymorph-neoforge-1.1.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0+1.21.1.jar",
+                    "id": "6794589",
+                    "parent_id": "388800",
+                    "hashes": {
+                        "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+                        "md5": "2368e0c92ae882677bbf4b87418656b9"
+                    },
+                    "required_dependencies": [],
+                    "size": 174972,
+                    "date_published": "2025-07-21T10:56:20.123Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "polymorph-neoforge-1.1.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0+1.21.1.jar",
+                    "id": "VEburL70",
+                    "parent_id": "tagwiZkJ",
+                    "hashes": {
+                        "sha512": "37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff",
+                        "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07"
+                    },
+                    "required_dependencies": [],
+                    "size": 174972,
+                    "date_published": "2025-07-21T10:56:19.716302Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "iZemAM2PgshtLOsa",
             "type": "MOD",
             "side": "BOTH",
