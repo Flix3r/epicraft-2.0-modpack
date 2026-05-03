@@ -20,17 +20,3 @@
   presetAffixes = []
   affixList = []
   affixPermission = "BLACKLIST"
-  [[entities]]
-  entity = "minecraft:silverfish"
-  minTier = 0
-  maxTier = 0
-  presetAffixes = []
-  affixList = []
-  affixPermission = "WHITELIST"
-    [[entities]]
-  entity = "minecraft:ghast"
-  minTier = 0
-  maxTier = 0
-  presetAffixes = []
-  affixList = []
-  affixPermission = "WHITELIST"

@@ -1,6 +1,6 @@
 [mobSplitSetting]
 	#Set to true to allow slime like mob when splitting, inherit this parentMob's affix and ranks.
-	mobInherit = true
+	mobInherit = false
 	#Set the children mob reduce rank when split, 0 means disable
 	# Default: 1
 	# Range: > 0
@@ -22,7 +22,7 @@
 	#The increase in experience multiplied by the growth factor
 	# Default: 1
 	# Range: > 0
-	experienceGrowth = 1
+	experienceGrowth = 1.5
 	#The increase in explosive range multiplied by the growth factor
 	# Default: 2
 	# Range: 0 ~ 100
@@ -60,7 +60,7 @@
 		#How long (in seconds) between cloud placements
 		# Default: 3
 		# Range: > 1
-		desecratingCloudInterval = 3
+		desecratingCloudInterval = 5
 		#How long (in seconds) it takes for the effect cloud to activate after being placed
 		# Default: 1
 		# Range: > 0
@@ -84,7 +84,7 @@
 		#The base movement speed bonus
 		# Default: 0.25
 		# Range: 0.0 ~ 1.7976931348623157E308
-		hastyMovementBonus = 0.25
+		hastyMovementBonus = 0.1
 
 	[affixes.infested]
 		#The amount of parasites to spawn per interval
@@ -102,7 +102,7 @@
 		#The total amount of parasites a champion can house at once
 		# Default: 20
 		# Range: > 1
-		infestedTotal = 1
+		infestedTotal = 2
 		#The mob to use as a parasite for infestation
 		infestedParasite = "minecraft:silverfish"
 		#The mob to use as a parasite for infestation of ender mob
@@ -155,13 +155,13 @@
 		#The maximum percent of damage to reflect back
 		# Default: 0.35
 		# Range: 0.0 ~ 1.0
-		reflectiveMaxPercent = 0.35
+		reflectiveMaxPercent = 0.2
 		#The maximum amount of damage to reflect back
 		# Default: 100
 		# Range: > 0
 		reflectiveMax = 100
 		#Set to true to enable deadly reflected strikes
-		reflectiveLethal = true
+		reflectiveLethal = false
 
 	[affixes.magnetic]
 		#Strength of the magnetic pulling effect
