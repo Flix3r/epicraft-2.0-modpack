@@ -15445,6 +15445,43 @@
             ]
         },
         {
+            "pakku_id": "LIjysYGwgtPao482",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "shearable-vines-neoforge"
+            },
+            "name": {
+                "modrinth": "Shearable Vines - NeoForge"
+            },
+            "id": {
+                "modrinth": "7eqOAF0N"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "nfshearablevines-1.0.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/7eqOAF0N/versions/8zx3ZsPO/nfshearablevines-1.0.0.jar",
+                    "id": "8zx3ZsPO",
+                    "parent_id": "7eqOAF0N",
+                    "hashes": {
+                        "sha512": "6a174dc3ccd3f9697234f49384d978452f6116c5cfdba1b3ba85661cc80f7b480173a06d1dd221ce74bad8a0bf9259e2d5e68f96e2b7806a15a5a11e282d2216",
+                        "sha1": "5eecdcc1ad9bbed551cac638272036f6e28a94fb"
+                    },
+                    "required_dependencies": [],
+                    "size": 6985,
+                    "date_published": "2026-01-27T10:03:39.433462Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "npn66QpjeGPXG4Rg",
             "type": "MOD",
             "side": "SERVER",
