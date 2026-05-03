@@ -90,19 +90,19 @@
 		#The amount of parasites to spawn per interval
 		# Default: 2
 		# Range: 1 ~ 100
-		infestedAmount = 2
+		infestedAmount = 1
 		#The time (in seconds) between parasite spawns
 		# Default: 3
 		# Range: 1 ~ 100
-		infestedInterval = 3
+		infestedInterval = 100
 		#The amount of parasites to infest per health point of the champion
 		# Default: 0.5
 		# Range: 0.0 ~ 1.7976931348623157E308
-		infestedPerHealth = 0.5
+		infestedPerHealth = 0.1
 		#The total amount of parasites a champion can house at once
 		# Default: 20
 		# Range: > 1
-		infestedTotal = 20
+		infestedTotal = 1
 		#The mob to use as a parasite for infestation
 		infestedParasite = "minecraft:silverfish"
 		#The mob to use as a parasite for infestation of ender mob
@@ -141,11 +141,11 @@
 	[affixes.plagued]
 		#The effect that will be spread
 		#Format:[effect];[power];[duration(secs)]
-		plaguedEffect = "minecraft:poison;0;0"
+		plaguedEffect = "minecraft:darkness;1;5"
 		#The range of the plagued effect
 		# Default: 5
 		# Range: 1 ~ 100
-		plaguedRange = 1
+		plaguedRange = 2
 
 	[affixes.reflective]
 		#The minimum percent of damage to reflect back
