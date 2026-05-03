@@ -5547,6 +5547,42 @@
             ]
         },
         {
+            "pakku_id": "iy1nSBTo349QLhBT",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "disenchantingforge"
+            },
+            "name": {
+                "curseforge": "DisenchantingForge"
+            },
+            "id": {
+                "curseforge": "358578"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Disenchanting-neoforge-1.21.1-2.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7830/765/Disenchanting-neoforge-1.21.1-2.3.0.jar",
+                    "id": "7830765",
+                    "parent_id": "358578",
+                    "hashes": {
+                        "sha1": "a11e6bc28d20b24d8bcb79e2965f79eaba7fc43a",
+                        "md5": "73e17e3239730555d5640d4c18fd88a4"
+                    },
+                    "required_dependencies": [],
+                    "size": 238428,
+                    "date_published": "2026-03-28T19:16:19.323Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Y23JPtlDXkaqqvF8",
             "type": "MOD",
             "side": "SERVER",
