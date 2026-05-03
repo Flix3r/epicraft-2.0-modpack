@@ -16582,67 +16582,6 @@
             ]
         },
         {
-            "pakku_id": "RFJYZHbfRpviY2VA",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "staaaaaaaaaaaack",
-                "modrinth": "staaaaaaaaaaaack"
-            },
-            "name": {
-                "curseforge": "Staaaaaaaaaaaack (Stxck)",
-                "modrinth": "Staaaaaaaaaaaack (Stxck)"
-            },
-            "id": {
-                "curseforge": "866957",
-                "modrinth": "myL7fuqp"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7053/597/staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar",
-                    "id": "7053597",
-                    "parent_id": "866957",
-                    "hashes": {
-                        "sha1": "827b0857f6075dfe5d40ce42aadd65e7cb36a7a9",
-                        "md5": "58be76b9e2adb40e2ddbf917d89141e9"
-                    },
-                    "required_dependencies": [],
-                    "size": 35594,
-                    "date_published": "2025-10-01T13:42:37.823Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/myL7fuqp/versions/xzztNZML/staaaaaaaaaaaack-neoforge-1.21.1-1.8.jar",
-                    "id": "xzztNZML",
-                    "parent_id": "myL7fuqp",
-                    "hashes": {
-                        "sha512": "96fca068c1d9de54e84cfb25c3c99131db899a33b2a3af5ee7b1abedc69a970d02e223fd51e984829ab7ccd9936c109e86703507d1d6c7d5daa77010c10f6077",
-                        "sha1": "827b0857f6075dfe5d40ce42aadd65e7cb36a7a9"
-                    },
-                    "required_dependencies": [],
-                    "size": 35594,
-                    "date_published": "2025-10-01T13:42:40.874005Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "y79W2XxjXbvjElp9",
             "type": "MOD",
             "side": "BOTH",
