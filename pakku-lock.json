@@ -2636,6 +2636,67 @@
             ]
         },
         {
+            "pakku_id": "ZqALV6sgCSwIe0oZ",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "chatnotify",
+                "modrinth": "chatnotify"
+            },
+            "name": {
+                "curseforge": "Chat Notify",
+                "modrinth": "Chat Notify"
+            },
+            "id": {
+                "curseforge": "855056",
+                "modrinth": "Iudurxl8"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "chatnotify-neoforge-2.6.8+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7999/510/chatnotify-neoforge-2.6.8+1.21.1.jar",
+                    "id": "7999510",
+                    "parent_id": "855056",
+                    "hashes": {
+                        "sha1": "ab98e2e8182d824aa465e1b187952de34b3faf63",
+                        "md5": "d6b56b935a3693808b7f60b3d5bb1c00"
+                    },
+                    "required_dependencies": [],
+                    "size": 386223,
+                    "date_published": "2026-04-27T09:52:09.560Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "chatnotify-neoforge-2.6.8+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Iudurxl8/versions/t1fQBEMR/chatnotify-neoforge-2.6.8+1.21.1.jar",
+                    "id": "t1fQBEMR",
+                    "parent_id": "Iudurxl8",
+                    "hashes": {
+                        "sha512": "0529468129999eacd0c79c71b1fe2215d644250eb5502d5b6c8f0cd5b5f77a6b9c68e252813741bcbabe47a927892c542584c2e1ac9b78b51db1fa7fe16b46f2",
+                        "sha1": "ab98e2e8182d824aa465e1b187952de34b3faf63"
+                    },
+                    "required_dependencies": [],
+                    "size": 386223,
+                    "date_published": "2026-04-27T09:52:09.598693Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "wDaXAJ5TuFDsfVyR",
             "pakku_links": [
                 "GfPqlhRI99mRUY1f"
