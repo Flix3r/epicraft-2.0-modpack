@@ -3,7 +3,8 @@
     "version": "1.2.2",
     "overrides": [
         "mods",
-        "epicraft_version.txt"
+        "epicraft_version.txt",
+        "licenses"
     ],
     "export_server_side_projects_to_client": false
 }
