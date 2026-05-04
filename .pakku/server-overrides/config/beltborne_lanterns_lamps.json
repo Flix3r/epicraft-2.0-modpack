@@ -1,0 +1,44 @@
+{
+  "extraLampLight": [
+    {
+      "id": "minecraft:lantern",
+      "luminance": 15
+    },
+    {
+      "id": "minecraft:soul_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "architects_palette:nether_brass_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "suppsquared:copper_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "suppsquared:crimson_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "upgrade_aquatic:tooth_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "enigmaticlegacyplus:ethereal_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "cluttered:hoppin_park_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "ribbits:swamp_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "cluttered:sea_gem_lantern",
+      "luminance": 15
+    }
+  ]
+}
