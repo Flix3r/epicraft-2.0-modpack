@@ -16,26 +16,34 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item",
+	"minecraft:tnt",
+	
     "enigmaticlegacyplus:cursed_ring",
-    "waystones:warp_stone",
     "enigmaticlegacyplus:unwitnessed_amulet",
-    "plushie_buddies:plushie_chewie",
+    
+	"plushie_buddies:plushie_chewie",
     "plushie_buddies:plushie_dark_father",
     "plushie_buddies:plushie_storm_soldier",
     "plushie_buddies:plushie_yoga",
     "plushie_buddies:plushie_emperor",
     "plushie_buddies:plushie_dan_rolo",
-    "galosphere:glow_flare",
+    
+	"galosphere:glow_flare",
     "galosphere:shadow_frame",
     "galosphere:burrow_anchor",
     "galosphere:palladium_dust",
-    "iceandfire:dread_portal",
-    "minecraft:tnt",
-    "waystones:waystone",
+    
+	"iceandfire:dread_portal",
+
+	"waystones:warp_stone",
+	"waystones:waystone",
 	"waystones:mossy_waystone",
 	"waystones:sandy_waystone",
 	"waystones:deepslate_waystone",
+	"waystones:warp_plate",
+	"waystones:return_scroll",
+	"waystones:blank_scroll",,
+ 
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -44,7 +52,9 @@
   // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
   // 	
   // 	 You can also use regular expressions by starting the value with !
-  "blacklisted_nbt": [],
+  "blacklisted_nbt": [
+      
+  ],
   // -----------------------------------------------------------
   // Items here will not be able to be right-clicked (Interact)
   //    Example: minecraft:apple
