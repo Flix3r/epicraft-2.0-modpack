@@ -727,6 +727,75 @@
             ]
         },
         {
+            "pakku_id": "xfNBNoCmOMy7MW9E",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "anvil-never-too-expensive",
+                "modrinth": "ante"
+            },
+            "name": {
+                "curseforge": "Anvil Never Too Expensive",
+                "modrinth": "Anvil Never Too Expensive"
+            },
+            "id": {
+                "curseforge": "670282",
+                "modrinth": "TEOa2X8B"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6056/726/AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
+                    "id": "6056726",
+                    "parent_id": "670282",
+                    "hashes": {
+                        "sha1": "df107309afccd4d704d72aae7af79798400c01c1",
+                        "md5": "3ebdf6fe260e625d792156ab7c35a7c2"
+                    },
+                    "required_dependencies": [],
+                    "size": 5237,
+                    "date_published": "2025-01-05T17:45:04.410Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/TEOa2X8B/versions/wV654RfI/AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar",
+                    "id": "wV654RfI",
+                    "parent_id": "TEOa2X8B",
+                    "hashes": {
+                        "sha512": "a678f8465cbd29d18e95104003bcaf15e7f5963169f120f9d074db9aa46d140ce964bb41ffcc06c1e0ff8183bc81061da4a45251f4d91fe1fc94e39fbaa37f49",
+                        "sha1": "df107309afccd4d704d72aae7af79798400c01c1"
+                    },
+                    "required_dependencies": [],
+                    "size": 5237,
+                    "date_published": "2025-01-05T17:48:38.228080Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "hwZjBZ4vZFDS3n9K",
             "type": "MOD",
             "side": "BOTH",
