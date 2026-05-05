@@ -13338,6 +13338,74 @@
             ]
         },
         {
+            "pakku_id": "bAWd4DSX5Hks4GV8",
+            "pakku_links": [
+                "wemtgWSmRYo1Y1cB"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "morejs",
+                "modrinth": "morejs"
+            },
+            "name": {
+                "curseforge": "MoreJS",
+                "modrinth": "MoreJS: KubeJS Addon"
+            },
+            "id": {
+                "curseforge": "666198",
+                "modrinth": "mo64mR1W"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "morejs-neoforge-1.21.1-0.16.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7103/440/morejs-neoforge-1.21.1-0.16.0.jar",
+                    "id": "7103440",
+                    "parent_id": "666198",
+                    "hashes": {
+                        "sha1": "7e8aea4f03b18076cab5555f6d30e35ff919b342",
+                        "md5": "e87be3ff14acf0f95dff07155c3aaa01"
+                    },
+                    "required_dependencies": [
+                        "238086"
+                    ],
+                    "size": 157690,
+                    "date_published": "2025-10-13T16:29:36.797Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "morejs-neoforge-1.21.1-0.16.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/mo64mR1W/versions/kyNrtsUY/morejs-neoforge-1.21.1-0.16.0.jar",
+                    "id": "kyNrtsUY",
+                    "parent_id": "mo64mR1W",
+                    "hashes": {
+                        "sha512": "3fbbe82b5b827e03518f7e515978af4e9fc0736b5385f80b5b86ef562a51e53fe32e815d416a6a0fe1ba752f835fbf641b42b59b5ffd5bb6469abb8b74ab29a2",
+                        "sha1": "7e8aea4f03b18076cab5555f6d30e35ff919b342"
+                    },
+                    "required_dependencies": [
+                        "umyGl7zF"
+                    ],
+                    "size": 157690,
+                    "date_published": "2025-10-13T16:29:36.770373Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "dU6YXqgJ6miVzOAm",
             "type": "MOD",
             "side": "SERVER",
