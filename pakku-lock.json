@@ -17922,6 +17922,74 @@
             ]
         },
         {
+            "pakku_id": "y8Z8iBkftrwKLdC6",
+            "pakku_links": [
+                "D8MMU1HQRGQ7v0co"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "trashslot",
+                "modrinth": "trashslot"
+            },
+            "name": {
+                "curseforge": "TrashSlot",
+                "modrinth": "TrashSlot"
+            },
+            "id": {
+                "curseforge": "235577",
+                "modrinth": "vRYk0bv7"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "trashslot-neoforge-1.21.1-21.1.10.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8019/502/trashslot-neoforge-1.21.1-21.1.10.jar",
+                    "id": "8019502",
+                    "parent_id": "235577",
+                    "hashes": {
+                        "sha1": "ee869412c35848757ced95b1ac84f4c132ebbe7b",
+                        "md5": "b8be0c2c958bcc8942f5024514abfd48"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 77420,
+                    "date_published": "2026-05-01T06:46:13.570Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "trashslot-neoforge-1.21.1-21.1.10.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vRYk0bv7/versions/JRxmKPV9/trashslot-neoforge-1.21.1-21.1.10.jar",
+                    "id": "JRxmKPV9",
+                    "parent_id": "vRYk0bv7",
+                    "hashes": {
+                        "sha512": "024288034f5866dcb2f0ce00c19dcac66bf62903ef12fcaa169aa285def0facd9212f8796ef9345049e1c112cf9743c9f64da1fb5e0f56254d9302c9a5fac5fc",
+                        "sha1": "d1bded1ef984ed63d47a475b05134abcabb9a71f"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 77420,
+                    "date_published": "2026-05-01T06:46:14.351360Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "RANd3a2rVA7Gz5WY",
             "type": "MOD",
             "side": "SERVER",
