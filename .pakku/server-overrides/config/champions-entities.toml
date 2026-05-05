@@ -20,3 +20,11 @@
   presetAffixes = []
   affixList = []
   affixPermission = "BLACKLIST"
+  #List of entity configurations
+[[entities]]
+  entity = "minecraft:piglin_brute"
+  minTier = 0
+  maxTier = 5
+  presetAffixes = []
+  affixList = ["champions:hasty"]
+  affixPermission = "BLACKLIST"
