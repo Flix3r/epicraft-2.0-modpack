@@ -7549,7 +7549,7 @@
         {
             "pakku_id": "dqySnQsQMzBZnMM7",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "female-gender-neoforge",
                 "modrinth": "female-gender"
