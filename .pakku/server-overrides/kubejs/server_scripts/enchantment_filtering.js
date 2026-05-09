@@ -1,6 +1,4 @@
 MoreJS.enchantmentTableChanged(event => {
-    const data = event.get(2)
-
     const blocked = [
         "enchantencore:phantom_menace",
         "enchantencore:moonwalk",
@@ -8,10 +6,14 @@ MoreJS.enchantmentTableChanged(event => {
         "nova_structures:wax_wings"
     ]
 
-    data.removeEnchantments((enchantment, level) => {
-        const id = enchantment.getKey().location()
-        return blocked.includes(id)
-    })
+    let data;
+    for (let i = 0; i < 3; i++) {
+        data = event.get(i)
 
-    data.randomClue()
+        data.removeEnchantments((enchantment) =>
+            blocked.includes(enchantment.getKey().location().toString())
+        )
+
+        data.randomClue()
+    }
 })
