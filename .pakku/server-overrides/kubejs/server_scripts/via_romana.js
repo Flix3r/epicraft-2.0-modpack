@@ -55,6 +55,9 @@ const blacklist = [
   'create:scoria',
   'create:scorchia',
   'supplementaries:ash',
+  'easyanvils:minecraft/anvil',
+  'easyanvils:minecraft/chipped_anvil',
+  'easyanvils:minecraft/damaged_anvil',
   
   /.+grass/,
   /.+leaves.*/,
