@@ -7,7 +7,8 @@ LootJS.modifiers((event) => {
     // Axolotl - 1%
     event.addEntityModifier("minecraft:axolotl").randomChance(0.01).addLoot(LootEntry.of("plushie_buddies:plushie_axolotl").limitCount(1, 1));
     // Bat - 1%
-    event.addEntityModifier("minecraft:bat").randomChance(0.01).addLoot(LootEntry.of("plushie_buddies:plushie_bat").limitCount(1, 1)).randomChance(0.5).addLoot(LootEntry.of("minecraft:phantom_membrane").limitCount(1, 1));
+    event.addEntityModifier("minecraft:bat").randomChance(0.01).addLoot(LootEntry.of("plushie_buddies:plushie_bat").limitCount(1, 1));
+    event.addEntityModifier("minecraft:bat").randomChance(1.0).addLoot(LootEntry.of("minecraft:phantom_membrane").limitCount(1, 1))
     // Bee - 1%
     event.addEntityModifier("minecraft:bee").randomChance(0.01).addLoot(LootEntry.of("plushie_buddies:plushie_bee").limitCount(1, 1));
     // Blaze - 0.1%
