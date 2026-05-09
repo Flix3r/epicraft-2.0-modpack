@@ -84,7 +84,7 @@
 	#Attack damage of Vulpus Pickaxe | Default Value = 10
 	# Default: 10
 	# Range: > 0
-	attackDamageVulpusPickaxe = 10
+	attackDamageVulpusPickaxe = 7
 	#Attack speed of Vulpus Pickaxe | Default Value = 0.5
 	# Default: 0.5
 	# Range: 0.0 ~ 1024.0
@@ -104,7 +104,7 @@
 	#Attack damage of Vulpus Shovel | Default Value = 10
 	# Default: 10
 	# Range: > 0
-	attackDamageVulpusShovel = 10
+	attackDamageVulpusShovel = 7
 	#Attack speed of Vulpus Shovel | Default Value = 0.5
 	# Default: 0.5
 	# Range: 0.0 ~ 1024.0
@@ -124,7 +124,7 @@
 	#Attack damage of Vulpus Hoe | Default Value = 10
 	# Default: 10
 	# Range: > 0
-	attackDamageVulpusHoe = 10
+	attackDamageVulpusHoe = 7
 	#Attack speed of Vulpus Hoe | Default Value = 0.5
 	# Default: 0.5
 	# Range: 0.0 ~ 1024.0
@@ -144,7 +144,7 @@
 	#Attack damage of Vulpus Hammer | Default Value = 11
 	# Default: 11
 	# Range: > 0
-	attackDamageVulpusHammer = 11
+	attackDamageVulpusHammer = 7
 	#Attack speed of Vulpus Hammer | Default Value = 0.5
 	# Default: 0.5
 	# Range: 0.0 ~ 1024.0
@@ -158,7 +158,7 @@
 	#Attack damage of Vulpus Excavator | Default Value = 11
 	# Default: 11
 	# Range: > 0
-	attackDamageVulpusExcavator = 11
+	attackDamageVulpusExcavator = 7
 	#Attack speed of Vulpus Excavator | Default Value = 0.5
 	# Default: 0.5
 	# Range: 0.0 ~ 1024.0
