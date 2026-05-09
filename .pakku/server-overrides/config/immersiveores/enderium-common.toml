@@ -88,7 +88,7 @@
 	#Attack damage of Enderium Pickaxe | Default Value = 15
 	# Default: 15
 	# Range: > 0
-	attackDamageEnderiumPickaxe = 15
+	attackDamageEnderiumPickaxe = 7
 	#Attack speed of Enderium Pickaxe | Default Value = 1.0
 	# Default: 1.0
 	# Range: 0.0 ~ 1024.0
@@ -108,7 +108,7 @@
 	#Attack damage of Enderium Shovel | Default Value = 15
 	# Default: 15
 	# Range: > 0
-	attackDamageEnderiumShovel = 15
+	attackDamageEnderiumShovel = 7
 	#Attack speed of Enderium Shovel | Default Value = 1.0
 	# Default: 1.0
 	# Range: 0.0 ~ 1024.0
@@ -128,7 +128,7 @@
 	#Attack damage of Enderium Hoe | Default Value = 15
 	# Default: 15
 	# Range: > 0
-	attackDamageEnderiumHoe = 15
+	attackDamageEnderiumHoe = 7
 	#Attack speed of Enderium Hoe | Default Value = 1.0
 	# Default: 1.0
 	# Range: 0.0 ~ 1024.0
@@ -148,7 +148,7 @@
 	#Attack damage of Enderium Hammer | Default Value = 16
 	# Default: 16
 	# Range: > 0
-	attackDamageEnderiumHammer = 16
+	attackDamageEnderiumHammer = 7
 	#Attack speed of Enderium Hammer | Default Value = 1.0
 	# Default: 1.0
 	# Range: 0.0 ~ 1024.0
@@ -162,7 +162,7 @@
 	#Attack damage of Enderium Excavator | Default Value = 16
 	# Default: 16
 	# Range: > 0
-	attackDamageEnderiumExcavator = 16
+	attackDamageEnderiumExcavator = 7
 	#Attack speed of Enderium Excavator | Default Value = 1.0
 	# Default: 1.0
 	# Range: 0.0 ~ 1024.0
