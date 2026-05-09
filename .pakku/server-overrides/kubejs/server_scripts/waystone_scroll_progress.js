@@ -14,7 +14,7 @@ PlayerEvents.tick(event => {
 
   // Not using scroll
   if (
-    player.mainHandItem.id !== "waystones:bound_scroll" ||
+    player.mainHandItem.id !== "waystones:warp_scroll" ||
     !player.isUsingItem()
   ) {
     if (active.has(uuid)) {
