@@ -16,7 +16,8 @@ PlayerEvents.tick(event => {
     const { server, player } = event
 
     if (server.tickCount % CHECK_INTERVAL !== 0) return
-
+	if (player.level.dimension != 'minecraft:overworld') return
+    
     const zone = getZone(player.x, player.z)
 
     if (!playerZones[player.uuid]) {
@@ -53,6 +54,7 @@ ServerEvents.commandRegistry(event => {
         Commands.literal("zone")
             .executes(ctx => {
                 const player = ctx.source.player
+                if (player.level.dimension != 'minecraft:overworld') return 1;
 
                 const zone = getZone(player.x, player.z)
 
