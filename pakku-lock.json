@@ -6322,6 +6322,74 @@
             ]
         },
         {
+            "pakku_id": "hLnTPD9KjaxoHLh7",
+            "pakku_links": [
+                "YwtDb2siWrmGkJne"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "easy-anvils",
+                "modrinth": "easy-anvils"
+            },
+            "name": {
+                "curseforge": "Easy Anvils",
+                "modrinth": "Easy Anvils"
+            },
+            "id": {
+                "curseforge": "682567",
+                "modrinth": "OZBR5JT5"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5733/955/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+                    "id": "5733955",
+                    "parent_id": "682567",
+                    "hashes": {
+                        "sha1": "376c02e44dfcb44b79a494b1dba87b2ffb24277f",
+                        "md5": "869e136e160ef739bee32e4bd6860d2a"
+                    },
+                    "required_dependencies": [
+                        "495476"
+                    ],
+                    "size": 152297,
+                    "date_published": "2024-09-18T10:12:35.533Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/fSQSKhdF/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+                    "id": "fSQSKhdF",
+                    "parent_id": "OZBR5JT5",
+                    "hashes": {
+                        "sha512": "366eed1f4831e4044566833e07e5f6201ef1d178d0b30938b8a8a34bcac08c904c95ca0afe87bd55ea06b87cce85ee70c95d0cddd0ae053b1302d288252fe98f",
+                        "sha1": "376c02e44dfcb44b79a494b1dba87b2ffb24277f"
+                    },
+                    "required_dependencies": [
+                        "QAGBst4M"
+                    ],
+                    "size": 152297,
+                    "date_published": "2024-09-18T10:12:39.832604Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DZfaeFrH5WAnFRbb",
             "pakku_links": [
                 "YwtDb2siWrmGkJne"
