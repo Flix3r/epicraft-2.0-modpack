@@ -13,7 +13,7 @@
 	numAffixes = 1
 	defaultColor = "#FFC0CB"
 	weight = 300
-	growthFactor = 1
+	growthFactor = 2
 	effects = []
 	presetAffixes = []
 #List of ranks
@@ -31,7 +31,7 @@
 	numAffixes = 3
 	defaultColor = "#FF9900"
 	weight = 75
-	growthFactor = 7
+	growthFactor = 6
 	effects = []
 	presetAffixes = []
 #List of ranks
@@ -40,7 +40,7 @@
 	numAffixes = 4
 	defaultColor = "#66FFFF"
 	weight = 50
-	growthFactor = 10
+	growthFactor = 8
 	effects = []
 	presetAffixes = []
 #List of ranks
@@ -49,6 +49,6 @@
 	numAffixes = 5
 	defaultColor = "#CC33FF"
 	weight = 25
-	growthFactor = 16
+	growthFactor = 10
 	effects = []
 	presetAffixes = []
