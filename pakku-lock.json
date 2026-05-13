@@ -19058,7 +19058,7 @@
         {
             "pakku_id": "s9K6IsqbEixfNMSC",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "xaeros-minimap",
                 "modrinth": "xaeros-minimap"
@@ -19121,7 +19121,7 @@
         {
             "pakku_id": "sb1J7z9RM6fRYfvn",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "xaeros-world-map",
                 "modrinth": "xaeros-world-map"
