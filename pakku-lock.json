@@ -4882,6 +4882,58 @@
             ]
         },
         {
+            "pakku_id": "ukdk8CEVVF4GcWgK",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "terralith-biome-saplings"
+            },
+            "name": {
+                "modrinth": "Custom Biome Saplings"
+            },
+            "id": {
+                "modrinth": "CYGkXnUb"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "terralith-biome-saplings-1.1.6.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CYGkXnUb/versions/jyLDOcvy/terralith-biome-saplings-1.1.6.jar",
+                    "id": "jyLDOcvy",
+                    "parent_id": "CYGkXnUb",
+                    "hashes": {
+                        "sha512": "948b1e4ced7ea15a21bc7af78feebc32e31a23d5619bfff8c4efa6b9560e402c11e11bb5ba238d8a2940b20cad5d32adb5cc733c2c51b2949f6b5c962295a524",
+                        "sha1": "e64015de95eb6d17ca4c72ae61389cb1679bd426"
+                    },
+                    "required_dependencies": [],
+                    "size": 341464,
+                    "date_published": "2025-10-19T16:10:26.854129Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "wYUAaPviMpVbcyun",
             "pakku_links": [
                 "YwtDb2siWrmGkJne"
