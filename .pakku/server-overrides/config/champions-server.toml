@@ -141,7 +141,7 @@
 	[affixes.plagued]
 		#The effect that will be spread
 		#Format:[effect];[power];[duration(secs)]
-		plaguedEffect = "minecraft:darkness;1;5"
+		plaguedEffect = "minecraft:weakness;2;5"
 		#The range of the plagued effect
 		# Default: 5
 		# Range: 1 ~ 100
@@ -179,7 +179,7 @@
 		#The percent chance that an attack will wound targets
 		# Default: 0.5
 		# Range: 0.0 ~ 1.0
-		shieldingChance = 0.5
+		shieldingChance = 0.2
 
 [integrations]
 	#Scaling Health
