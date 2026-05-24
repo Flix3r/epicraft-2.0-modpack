@@ -4472,6 +4472,74 @@
             ]
         },
         {
+            "pakku_id": "DOaELe0SCq2DISdY",
+            "pakku_links": [
+                "SxeM3dac1hCPryAH"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-shuffle-filter",
+                "modrinth": "create-shuffle-filter"
+            },
+            "name": {
+                "curseforge": "Create: Shuffle Filter",
+                "modrinth": "Create: Shuffle Filter"
+            },
+            "id": {
+                "curseforge": "1357568",
+                "modrinth": "gv5RRavC"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-shufflefilter-2.0.2-neo.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7972/57/create-shufflefilter-2.0.2-neo.jar",
+                    "id": "7972057",
+                    "parent_id": "1357568",
+                    "hashes": {
+                        "sha1": "56ad9f0b123e6c941c2a843a4da16e0e0edfc0ff",
+                        "md5": "b5839663e71e2afef149bb2627fa669f"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 218774,
+                    "date_published": "2026-04-23T13:11:55.513Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "create-shufflefilter-2.0.2-neo.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gv5RRavC/versions/ifSwGuWK/create-shufflefilter-2.0.2-neo.jar",
+                    "id": "ifSwGuWK",
+                    "parent_id": "gv5RRavC",
+                    "hashes": {
+                        "sha512": "89ca7337cfa64dee2b20e358652474e24697a52a21c3ef1e3351e83e5f343e1074c0138c6d37d250b324819d94ed6e5a6cfba5d68add14a9c9c68563fc694890",
+                        "sha1": "56ad9f0b123e6c941c2a843a4da16e0e0edfc0ff"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 218774,
+                    "date_published": "2026-04-23T13:12:02.039529Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "x0BEdUdbBhyQ5XUA",
             "type": "MOD",
             "side": "CLIENT",
