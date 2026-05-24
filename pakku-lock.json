@@ -4126,6 +4126,74 @@
             ]
         },
         {
+            "pakku_id": "pvQaBidDuNMSVQPB",
+            "pakku_links": [
+                "SxeM3dac1hCPryAH"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-blocks-bogies",
+                "modrinth": "blocks-bogies"
+            },
+            "name": {
+                "curseforge": "Create: Blocks & Bogies",
+                "modrinth": "Create: Blocks & Bogies"
+            },
+            "id": {
+                "curseforge": "1317252",
+                "modrinth": "j4ARnQwY"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create_bb-1.0.7-1.21.1-Neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7471/348/create_bb-1.0.7-1.21.1-Neoforge.jar",
+                    "id": "7471348",
+                    "parent_id": "1317252",
+                    "hashes": {
+                        "sha1": "7a6eae4bc851786c6519c8cac956b406cb71a8eb",
+                        "md5": "4785597d4a3bf7152a7911f7392ec7b6"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 2613213,
+                    "date_published": "2026-01-17T01:44:28.957Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "create_bb-1.0.7-1.21.1-Neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/j4ARnQwY/versions/rUu97B0K/create_bb-1.0.7-1.21.1-Neoforge.jar",
+                    "id": "rUu97B0K",
+                    "parent_id": "j4ARnQwY",
+                    "hashes": {
+                        "sha512": "77741f2b77426bb24607221ea98e544280a81ba74cadb77334c3d0911f8ffbf63d3d3f268d435c1c1e0e5794cfc33f7fbb5fc0e43ba7a89098b4a97aa4396987",
+                        "sha1": "7a6eae4bc851786c6519c8cac956b406cb71a8eb"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 2613213,
+                    "date_published": "2026-01-17T01:39:40.116345Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "08eqQ8SyhCdmxVON",
             "pakku_links": [
                 "SxeM3dac1hCPryAH"
