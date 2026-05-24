@@ -16194,6 +16194,67 @@
             ]
         },
         {
+            "pakku_id": "TnTfE0aUHlajPpLv",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "selectable-painting",
+                "modrinth": "selectable-painting"
+            },
+            "name": {
+                "curseforge": "Selectable Painting",
+                "modrinth": "Selectable Painting"
+            },
+            "id": {
+                "curseforge": "388638",
+                "modrinth": "NBJXn70b"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SelectablePainting-1.21.1-4.0.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8028/889/SelectablePainting-1.21.1-4.0.1.jar",
+                    "id": "8028889",
+                    "parent_id": "388638",
+                    "hashes": {
+                        "sha1": "c5bc1a3606973e6e06bfd1d7f810e5b72eb3b06e",
+                        "md5": "20d1d347ce9f893f5f67a0e5f44cdcfd"
+                    },
+                    "required_dependencies": [],
+                    "size": 53897,
+                    "date_published": "2026-05-02T20:30:13.027Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "SelectablePainting-1.21.1-4.0.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NBJXn70b/versions/R6EBIKGo/SelectablePainting-1.21.1-4.0.1.jar",
+                    "id": "R6EBIKGo",
+                    "parent_id": "NBJXn70b",
+                    "hashes": {
+                        "sha512": "4bd72e502b5bf61f05c480b51c6b31d39252cc2ecc5416e8c023b7a1a3aa2169e8431313432eed7571c72f8d9e1f39e5a27625807bd0d4bd238b414d0366e59e",
+                        "sha1": "c5bc1a3606973e6e06bfd1d7f810e5b72eb3b06e"
+                    },
+                    "required_dependencies": [],
+                    "size": 53897,
+                    "date_published": "2026-05-02T20:30:11.573182Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LIjysYGwgtPao482",
             "type": "MOD",
             "side": "BOTH",
