@@ -3736,6 +3736,79 @@
             ]
         },
         {
+            "pakku_id": "OAtBhohsW6xQCIAv",
+            "pakku_links": [
+                "K6kA919USE4iExl2",
+                "NyIzidBwIQdyLd1s"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "connected-glass",
+                "modrinth": "connected-glass"
+            },
+            "name": {
+                "curseforge": "Connected Glass",
+                "modrinth": "Connected Glass"
+            },
+            "id": {
+                "curseforge": "383129",
+                "modrinth": "DghO0R02"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "connectedglass-1.1.14-neoforge-mc1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6811/960/connectedglass-1.1.14-neoforge-mc1.21.jar",
+                    "id": "6811960",
+                    "parent_id": "383129",
+                    "hashes": {
+                        "sha1": "0a44c13d6744e0eeec5bf38f58756a8e86e96f55",
+                        "md5": "978a7bee8daa65f9e3b480405e6da41c"
+                    },
+                    "required_dependencies": [
+                        "454372",
+                        "854949"
+                    ],
+                    "size": 819976,
+                    "date_published": "2025-07-25T23:06:35.190Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "connectedglass-1.1.14-neoforge-mc1.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DghO0R02/versions/vF1S4Mfu/connectedglass-1.1.14-neoforge-mc1.21.jar",
+                    "id": "vF1S4Mfu",
+                    "parent_id": "DghO0R02",
+                    "hashes": {
+                        "sha512": "c0db64151d850d568386b4c287e75fa882a4590802a0a9bc0eec7d47240e56dbc3215b4edede97204d7817afc097cba5e438a66eb58b956213b2289e342823a5",
+                        "sha1": "0a44c13d6744e0eeec5bf38f58756a8e86e96f55"
+                    },
+                    "required_dependencies": [
+                        "p19vrgc2",
+                        "rOUBggPv"
+                    ],
+                    "size": 819976,
+                    "date_published": "2025-07-25T23:06:49.381245Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "aTn8O9W5qLAKq5Bq",
             "pakku_links": [
                 "BV5Spr0JWgCJMXMj"
