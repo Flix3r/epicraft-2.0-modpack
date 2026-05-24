@@ -14,3 +14,7 @@ ServerEvents.tags('item', event => {
     event.add('liteminer:excluded_tools', 'simplest_paxels:iron_paxel')
 
 })
+
+ServerEvents.tags('block', event => {
+    event.add('minecraft:mineable/pickaxe', 'minecraft:glowstone')
+})
