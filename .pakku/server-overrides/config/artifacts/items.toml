@@ -223,13 +223,13 @@
 	cooldown = 0
 	#The amount of time in seconds a player can fly with the Helium Flamingo before needing to recharge
 	#Range: 0 ~ 72000
-	flightDuration = 0
+	flightDuration = 7
 	#Whether this item can be found in structures or drop from entities
 	#Allowed Values: true, false
 	generateAsLoot = true
 	#The amount of time in seconds it takes for the Helium Flamingo to recharge
 	#Range: 0 ~ 72000
-	rechargeDuration = 16
+	rechargeDuration = 24
 
 [kitty_slippers]
 	#Whether this item can be found in structures or drop from entities
