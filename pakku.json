@@ -6,5 +6,15 @@
         "epicraft_version.txt",
         "licenses"
     ],
-    "export_server_side_projects_to_client": false
+    "projects": {
+        "data-anchor": {
+            "update_strategy": "NONE"
+        },
+        "luckperms": {
+            "update_strategy": "NONE"
+        },
+        "trek-mod": {
+            "update_strategy": "NONE"
+        }
+    }
 }
